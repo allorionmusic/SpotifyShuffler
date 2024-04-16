@@ -9,7 +9,7 @@ You can ctrl + a, right click and select "Remove from playlist" to remove all th
 
 Then you just run the script and ctrl + v to paste into the playlist!
 
-# Note
+## Note
 some random line in spotify.txt will be merged with another, for example, a link will be like this:
 
 https://open.spotify.com/track/3gnZKWRE06LCcCXpu487bXhttps://open.spotify.com/track/2lOg3OFSkrgfh9v4VZerZj
